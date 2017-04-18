@@ -1,2 +1,2 @@
 # data-science
-There are two jupyter notebook files here pertaining to my attempted answers to the data wrangling exercises for json and xml file formats. I have not attempted to answer exercise four of the xml data wrangling module because I believe that the data is insufficient to answer the question. 
+There are two main directories here.  The springboard workshop directory displays all of the exercises as well as the capstone project I worked for their data science intensive class.  The other directory holds one of the R code I worked on as part of my graduate thesis project. 
